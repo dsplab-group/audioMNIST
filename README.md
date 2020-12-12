@@ -7,3 +7,5 @@ Applying 2 different types of data augmentation:
 Two types of nolinear time shifting
 . ![Alt text](shift1.png)
 . ![Alt text](shift2.png)
+
+Group member: Yuhui Xu, yx2209, N18582390
