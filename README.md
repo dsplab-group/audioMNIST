@@ -8,4 +8,6 @@ Two types of nolinear time shifting
 . ![Alt text](shift1.png)
 . ![Alt text](shift2.png)
 
+In this way, we increase the accuracy from around 90.0% to 99.5%
+
 Group member: Yuhui Xu, yx2209, N18582390
