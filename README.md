@@ -4,9 +4,10 @@ Follow the method of using [CNN](https://www.kaggle.com/christianlillelund/class
 Applying 2 different types of data augmentation:
 * White noise
 * Time shifting
+
 Two types of nolinear time shifting
-. ![Alt text](shift1.png)
-. ![Alt text](shift2.png)
+1. ![Alt text](shift1.png)
+2. ![Alt text](shift2.png)
 
 In this way, we increase the accuracy from around 90.0% to 99.5%
 
